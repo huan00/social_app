@@ -1,0 +1,10 @@
+[2022-08-16 11:59:54.430] [sharedprocess] [info] Starting worker process with pid 1570 (type: fileWatcher, window: 1).
+[2022-08-16 12:00:51.064] [sharedprocess] [info] Worker process with pid 1570 terminated normally (type: fileWatcher, window: 1).
+[2022-08-16 12:12:19.015] [sharedprocess] [info] Detected extension installed from another source robbowen.synthwave-vscode
+[2022-08-16 12:12:19.016] [sharedprocess] [info] Detected extension removed from another source aaronyoung.dark-synthwave-vscode
+[2022-08-16 13:32:08.221] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-16 13:48:37.833] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-16 14:59:01.753] [sharedprocess] [info] Detected extension installed from another source bradlc.vscode-tailwindcss
+[2022-08-16 14:59:01.754] [sharedprocess] [info] Detected extension removed from another source robbowen.synthwave-vscode
+[2022-08-17 10:48:22.510] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-17 11:12:40.340] [sharedprocess] [info] Starting worker process with pid 18668 (type: fileWatcher, window: 3).
